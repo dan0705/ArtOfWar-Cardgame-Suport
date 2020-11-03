@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ArtOfWar-Cardgame-Support/static/css/main.e3c5a594.chunk.css",
+    "main.js": "/ArtOfWar-Cardgame-Support/static/js/main.d7d863ff.chunk.js",
+    "main.js.map": "/ArtOfWar-Cardgame-Support/static/js/main.d7d863ff.chunk.js.map",
+    "runtime-main.js": "/ArtOfWar-Cardgame-Support/static/js/runtime-main.521317ec.js",
+    "runtime-main.js.map": "/ArtOfWar-Cardgame-Support/static/js/runtime-main.521317ec.js.map",
+    "static/js/2.c963ec87.chunk.js": "/ArtOfWar-Cardgame-Support/static/js/2.c963ec87.chunk.js",
+    "static/js/2.c963ec87.chunk.js.map": "/ArtOfWar-Cardgame-Support/static/js/2.c963ec87.chunk.js.map",
+    "static/js/3.cb0e26de.chunk.js": "/ArtOfWar-Cardgame-Support/static/js/3.cb0e26de.chunk.js",
+    "static/js/3.cb0e26de.chunk.js.map": "/ArtOfWar-Cardgame-Support/static/js/3.cb0e26de.chunk.js.map",
+    "index.html": "/ArtOfWar-Cardgame-Support/index.html",
+    "static/css/main.e3c5a594.chunk.css.map": "/ArtOfWar-Cardgame-Support/static/css/main.e3c5a594.chunk.css.map",
+    "static/js/2.c963ec87.chunk.js.LICENSE.txt": "/ArtOfWar-Cardgame-Support/static/js/2.c963ec87.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.521317ec.js",
+    "static/js/2.c963ec87.chunk.js",
+    "static/css/main.e3c5a594.chunk.css",
+    "static/js/main.d7d863ff.chunk.js"
+  ]
+}
